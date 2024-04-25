@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/>
 
+### Tech Stack I Get in 2024
 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 
 
 
