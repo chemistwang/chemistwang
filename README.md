@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 
 ### Tech Stack I Get in 2025
-<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 
 ### Tech Stack I Wanna Get in 2026
-<img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" alt="ethereum" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/>
 
 
 
